@@ -1,2 +1,2 @@
-# Session-02-Assignment-02-
-Assignment_of_acadgild_session_2
+# Session-02 Assignment-01
+Data Science Batch - Session 02 Assignment 01
